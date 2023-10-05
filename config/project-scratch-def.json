@@ -1,13 +1,4 @@
 {
-  "orgName": "Demo company",
-  "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
-  "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
-  }
+	"orgName": "FRF_Base_Scratch",
+	"sourceOrg": "00DA0000000bZF5"
 }
